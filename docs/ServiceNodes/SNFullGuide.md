@@ -14,7 +14,7 @@ Full summary of Loki Service Node Requirements. This may change depending on Ser
 
 |Spec|Note|
 |---|---|
-|Latest Binary|[Loki Festive Freya](https://github.com/loki-project/loki/releases/latest)|
+|Latest Binary|[Loki Summer Sigyn](https://github.com/loki-project/loki/releases/latest)|
 |Software| Ubuntu 16.04|
 |Storage | 30-50gb|
 |Ram | 2-4 gb|
